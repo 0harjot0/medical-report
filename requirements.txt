@@ -1,0 +1,6 @@
+langchain
+langchain_openai
+langchain_experimental
+llama-index
+python-dotenv
+markdown-pdf
