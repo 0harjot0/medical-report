@@ -4,3 +4,5 @@ langchain_experimental
 llama-index
 python-dotenv
 markdown-pdf
+google-generativeai
+beautifulsoup4
